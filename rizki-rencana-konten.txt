@@ -3,6 +3,7 @@ rencana konten rizki
 -html
 -css
 -javascript
+  *ES5
   *ES6
 -php
 -data structure basic
