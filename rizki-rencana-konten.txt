@@ -3,9 +3,8 @@ rencana konten rizki
 -html
 -css
 -javascript
-  *ES6
+  *ES7
 -php
--data structure basic
 -framework frontend
  *REACTJS
  *LARAVEL
