@@ -1,0 +1,12 @@
+rencana konten rizki
+
+-html
+-css
+-javascript
+  *ES6
+-php
+-framework frontend
+ *REACTJS
+ *LARAVEL
+ *VUE
+-backend
