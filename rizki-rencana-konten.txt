@@ -9,5 +9,6 @@ rencana konten rizki
 -framework frontend
  *REACTJS
  *LARAVEL
+  -Basic
  *VUE
 -backend
