@@ -3,10 +3,11 @@ rencana konten rizki
 -html
 -css
 -javascript
-  *ES7
+  *ES6
 -php
 -framework frontend
  *REACTJS
  *LARAVEL
+  -Basic
  *VUE
 -backend
